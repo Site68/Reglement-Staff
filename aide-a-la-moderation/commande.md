@@ -24,8 +24,4 @@
 
 :invisible : Permet d'être invisible
 
-
-
-> &#x20;_<mark style="color:red;">**Tous les ban se font via le discord staff**</mark>_
-
 \

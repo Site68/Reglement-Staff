@@ -1,14 +1,10 @@
 # 🚨 En Service
 
-* Il est obligatoire de faire une #demande si le joueur mérite une sanction plus lourde que celle que vous pouvez lui mettre.
+* Si le joueurs mérite un bannissement il faudra donc effectué une demande de demande de ban (ddb) sur le discord staff !
 
 
 
-* Il est interdit d’organiser des événements. Les événements sont faits par la Direction.
-
-
-
-* Il est interdit de "spectate" ou de vous téléporter à un staff faisant partie de la Haute hiérarchie. (Haut dessus de admin)
+* Il est interdit d’organiser des événements. Les événements sont faits par les Managers.
 
 
 
@@ -54,15 +50,7 @@
 
 
 
-* Il est obligatoire de faire une prise de service lorsque vous vous mettez en team staff.
-
-
-
 * Ne pas prendre de tools dans ses main en staff (Radio, Clé, etc)
-
-
-
-* Évitez de passer dans le scanner quand vous êtes en staff.
 
 
 
@@ -70,6 +58,6 @@
 
 
 
-* Ne pas activer le voicechat n’y écrire s’y vous êtes sur site (In RP)&#x20;
+* Ne pas activer le voicechat n’y écrire s’y vous êtes en RP&#x20;
 
 \
