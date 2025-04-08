@@ -1,21 +1,15 @@
 # 🚨 Report un Joueur
 
-Bonjour,
-
-
+**Bonjour,**
 
 Merci de nous avoir signalé ce joueur. Votre ticket a bien été pris en compte.
 
+Nous allons procéder à une **analyse approfondie** des preuves fournies ainsi que de la situation dans son ensemble.\
+Si nous constatons que le joueur concerné a effectivement enfreint les règles de notre jeu, **des sanctions appropriées seront appliquées**.
 
+Nous vous tiendrons informé(e) de toute mise à jour concernant ce signalement.\
+Merci de contribuer à faire de notre communauté un espace sûr et agréable pour tous.
 
-Nous allons procéder à une analyse approfondie des preuves fournies et de la situation. Si nous constatons que le joueur concerné a enfreint les règles de notre jeu, des sanctions appropriées seront appliquées.
-
-
-
-Nous vous tiendrons informé(e) en cas de mise à jour liée à ce signalement. Merci de contribuer à faire de notre communauté un espace agréable pour tous.
-
-
-
-Cordialement, L'équipe SCP Site-68
+**Cordialement,**
 
 \

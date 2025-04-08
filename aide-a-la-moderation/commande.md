@@ -2,8 +2,6 @@
 
 :cmds : Afficher les commandes
 
-/tuc \[Pseudo] \[Nombre] \[Raison]
-
 :warn \[Pseudo] \[Raison]
 
 :warns : Permet de voir la liste des warns

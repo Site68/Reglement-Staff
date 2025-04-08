@@ -8,7 +8,6 @@
 
 * [🗃️ Commande](aide-a-la-moderation/commande.md)
 * [⚖️ Ticket](aide-a-la-moderation/ticket/README.md)
-  * [💰 Remboursement XP/GamePass](aide-a-la-moderation/ticket/remboursement-xp-gamepass.md)
+  * [💰 Remboursement GamePass](aide-a-la-moderation/ticket/remboursement-xp-gamepass.md)
   * [🔩 Remboursement Tool en jeu](aide-a-la-moderation/ticket/remboursement-tool-en-jeu.md)
   * [🚨 Report un Joueur](aide-a-la-moderation/ticket/report-un-joueur.md)
-  * [🛎️ Demande de WL/Rôle](aide-a-la-moderation/ticket/demande-de-wl-role.md)
